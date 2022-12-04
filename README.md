@@ -25,7 +25,7 @@ I am using [2020's Advent of Code](https://adventofcode.com/) challenge as an ex
 |-----------|------|:------:|:------:|
 | [Day 1: Report Repair](https://adventofcode.com/2020/day/1) | [day01.fsx](day01.fsx) | ✔️ | ✔️ |
 | [Day 2: Rock Paper Scissors](https://adventofcode.com/2020/day/2) | [day02.fsx](day02.fsx) | ✔️ | ✔️ |
-| [Day 3](https://adventofcode.com/2020/day/3) | | | |
+| [Day 3: Rucksack Reorganization](https://adventofcode.com/2020/day/3) | [day03.fsx](day03.fsx) | ✔️ | ✔️ |
 | [Day 4](https://adventofcode.com/2020/day/4) | | | |
 | [Day 5](https://adventofcode.com/2020/day/5) | | | |
 | [Day 6](https://adventofcode.com/2020/day/6) | | | |
