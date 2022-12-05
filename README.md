@@ -1,5 +1,5 @@
-# Advent of Code 2020: nu
-I am using [2020's Advent of Code](https://adventofcode.com/) challenge as an exercise to learn nu.
+# Advent of Code 2022: nu
+I am using [2022's Advent of Code](https://adventofcode.com/2022) challenge as an exercise to learn nu.
 
 ## Prerequisites
 - [Nushell](https://www.nushell.sh/).
