@@ -27,7 +27,7 @@ I am using [2022's Advent of Code](https://adventofcode.com/2022) challenge as a
 | [Day 2: Rock Paper Scissors](https://adventofcode.com/2020/day/2) | [day02.nu](day02.nu) | ✔️ | ✔️ |
 | [Day 3: Rucksack Reorganization](https://adventofcode.com/2020/day/3) | [day03.nu](day03.nu) | ✔️ | ✔️ |
 | [Day 4: Camp Cleanup](https://adventofcode.com/2020/day/4) | [day04.nu](day04.nu) | ✔️ | ✔️ |
-| [Day 5](https://adventofcode.com/2020/day/5) | | | |
+| [Day 5: Supply Stacks](https://adventofcode.com/2020/day/5) | [day05.nu](day05.nu) | ✔️ | ✔️ |
 | [Day 6](https://adventofcode.com/2020/day/6) | | | |
 | [Day 7](https://adventofcode.com/2020/day/7) | | | |
 | [Day 8](https://adventofcode.com/2020/day/8) | | | |
